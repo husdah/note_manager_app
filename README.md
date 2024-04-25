@@ -2,7 +2,7 @@
 
 First, you should clone this repo:
 ```
-git clone 
+git clone https://github.com/husdah/note_manager_app.git
 ```
 then in the project directory: 
 
